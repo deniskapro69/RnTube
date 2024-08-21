@@ -13,11 +13,95 @@
     background-image: url(img/Background.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-}
-body {
-    margin: 0;
-}
-.Video{
     text-align: center;
     margin: 5px 10px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    text-decoration: none;
+    text-align: left;
+    margin:  10px 30px;
+}
+.nagiev_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.tomat_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.FPS_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.BBT2_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.ROBLOX_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.minecraft_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.nagets_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.Acsolotel_link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
+}
+.Link{
+    background-color: rgb(255, 208, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 14px 10px;
 }
