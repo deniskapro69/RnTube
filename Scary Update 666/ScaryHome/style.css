@@ -1,0 +1,311 @@
+@media  screen and (min-width: 525px) {
+    .PC {
+      display: block
+    }
+    .mobile {
+      display: none
+    }
+  }
+  
+  @media  screen and (max-width: 525px) {
+    .PC {
+      display: none
+    }
+    .mobile {
+      display: block
+    }
+  }
+  .Background{
+  background-image: url("img/Background.jpg");
+  background-position: center center;
+  background-size: 100% 100%;;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin: 0;
+  height: 900 vh;
+ 
+ .User{
+    color:rgb(50, 104, 0);
+    font-size: 20px;
+    text-align: right;
+    }
+.admin{
+    background-color: white;
+}
+.margin{
+    text-align: left;
+    margin: 0px 0px;
+}
+
+body{
+    margin: 0;
+}
+.logo{
+    text-decoration: none;
+    text-align: left;
+    margin:  10px 30px;
+}
+.nagiev_photo{
+    height: 50vh;
+    width: 100vh;
+    border-radius: 40px;
+}
+.tomat_photo{
+    border-radius: 40px;
+}
+.Acsolotel_photo{
+    border-radius: 40px;
+}
+.BBT2_photo{
+    border-radius: 40px;
+}
+.FPS_photo{
+    border-radius: 40px;
+}
+.minecraft_photo{
+    border-radius: 40px;
+}
+.nagets_photo{
+    border-radius: 40px;
+    size: 5vh;
+}
+.nagiev_link{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 17px 61px;
+    border-radius: 40px;
+}
+.tomat_link{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 17px 103px;
+    border-radius: 40px;
+}
+.FPS_link{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 17px 14px;
+    border-radius: 40px;
+}
+.BBT2_link{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 17px 61px;
+    border-radius: 40px;
+}
+.ROBLOX_link{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 17px 67px;
+    border-radius: 40px;
+}
+.minecraft_link{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 17px 82px;
+    border-radius: 40px;
+}
+.nagets_link{
+    background-color: rgb(255, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 17px 68px;
+    border-radius: 40px;
+}
+.Acsolotel_link{
+    background-color: rgb(255	, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 18px 101px;
+    border-radius: 40px;
+}
+.Link{
+    background-color: rgb(255, 150, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 12px 10px;
+    border-radius: 40px;
+}
+.Acsolotel_link:hover{
+    background-color: darkgreen;
+}
+.minecraft_link:hover{
+    background-color: darkgreen;
+}
+.nagets_link:hover{
+    background-color: darkgreen;
+}
+.ROBLOX_link:hover{
+    background-color: darkgreen;
+}
+.BBT2_link:hover{
+    background-color: darkgreen;
+}
+.FPS_link:hover{
+    background-color: darkgreen;
+}
+.tomat_link:hover{
+    background-color: darkgreen;
+}
+.nagiev_link:hover{
+    background-color: darkgreen;
+}
+  }
+.Background-m{
+  background-image: url("img/Background.jpg");
+  background-position: center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin: 1;
+  height: 425vh;
+
+.nagiev_photo-m{
+    height: 40vh;
+    width: 65vh;
+    border-radius: 40px;
+}
+  .nagiev_link-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 7vh;
+    border-radius: 40px;
+}
+.Acsolotel_link-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 7vh;
+    border-radius: 40px;
+}
+.BBT2_link-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 7vh;
+    border-radius: 40px;
+}
+.FPS_link-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 1vh;
+    border-radius: 40px;
+}
+.minecraft_link-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 7vh;
+    border-radius: 40px;
+}
+.nagets_link-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 7vh;
+    border-radius: 40px;
+}
+.ROBLOX_lin-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 7vh;
+    border-radius: 40px;
+}
+.tomat_link-m{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 255, 0);
+    color: rgb(0, 0, 0);
+    font-size: 18px;
+    font-weight: 700;
+    font-family: sans-serif;
+    text-decoration: none;
+    padding: 1vh 7vh;
+    border-radius: 40px;
+}
+}
