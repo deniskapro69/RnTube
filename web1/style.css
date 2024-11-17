@@ -16,11 +16,16 @@
     }
   }
   .Background{
-    background-image: url(img/Background.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-    text-align: center;
-    margin: 5px 10px;
+  background-image: url("img/Background.jpg");
+  background-position: center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin: 1;
+  height: 439vh;
 }
   .User{
     color:rgb(50, 104, 0);
@@ -175,6 +180,58 @@ body{
 }
 .nagiev_link:hover{
     background-color: darkgreen;
+}
+.Background-m{
+  background-image: url("img/Background.jpg");
+  background-position: center center;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  text-align: center;
+  margin: 1;
+  height: 375vh;
+}
+.nagiev_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
+}
+.tomat_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
+}
+.FPS_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
+}
+.BBT2_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
+}
+.ROBLOX_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
+}
+.nagets_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
+}
+.Acsolotel_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
+}
+.minecraft_photo-m{
+    height: 30vh;
+    width: 50vh;
+    border-radius: 40px;
 }
 .nagiev_link-m{
     display: flex;
