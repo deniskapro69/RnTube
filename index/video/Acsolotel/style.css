@@ -1,0 +1,64 @@
+@media  screen and (min-width: 525px) {
+    .PC {
+      display: block
+    }
+    .mobile {
+      display: none
+    }
+  }
+  
+  @media  screen and (max-width: 525px) {
+    .PC {
+      display: none
+    }
+    .mobile {
+      display: block
+    }
+  }      
+	   body {
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff; /* Азурный цвет фона */
+            color: #333;
+            text-align: center;
+        }
+
+        .container {
+            padding: 50px;
+        }
+
+        .video {
+            border: none;
+            width: 100%;
+            height: 50vh;
+        }
+
+        .links {
+            bottom: 20px;
+            left: 50%;
+            font-size: 18px;
+        }
+
+        .links a {
+            color: #0066cc;
+            text-decoration: none;
+            margin: 0 10px;
+        }
+
+        .links a:hover {
+            text-decoration: underline;
+        }
+        iframe {
+            border: none;
+            width: 80%;
+            height: 500px;
+        }
+		.linksPC {
+            bottom: 20px;
+            left: 50%; 
+        }
+		.linksPC a {
+            color: #0066cc;
+            text-decoration: none;
+            margin: 0 10px;
+        }
