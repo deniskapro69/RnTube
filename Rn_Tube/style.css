@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background-color: #858585;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.wrapper{
+	width: 210px;
+	color: #fff;
+}
+.wrapper h1{
+	font-size: 36px;
+}
+.wrapper g{
+	font-size: 46px;
+}
+.wrapper .Input{
+	width: 100%;
+	height: 35px;
+	margin: 0;
+	padding: 10px 22px 10px 10px;
+}
+.wrapper .button{
+	width: 100%;
+	height: 30px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wrapper .login{
+	width: 100%;
+	height: 35px;
+	margin: 0;
+	padding: 10px 22px 10px 10px;
+}
+.wrapper .password{
+	width: 100%;
+	height: 35px;
+	margin: 0;
+	padding: 10px 22px 10px 10px;
+}
+.wrapper login{
+	width: 100%;
+}
+.button{
+	width: 100%;
+}
